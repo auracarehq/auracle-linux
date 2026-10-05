@@ -19,7 +19,7 @@ Grab `auracle_*_amd64.deb` or `Auracle-*-x86_64.AppImage` from
   `chmod +x Auracle-*-x86_64.AppImage && ./Auracle-*-x86_64.AppImage`
 
 Neither artifact bundles a GTK runtime. Your desktop needs GTK 4.12 or newer
-and Libadwaita 1.4 or newer already installed — true of a stock GNOME desktop
+and Libadwaita 1.5 or newer already installed — true of a stock GNOME desktop
 on a current Ubuntu or Fedora release.
 
 ## Verify
@@ -51,11 +51,10 @@ promise is made, but every report is read.
 
 ## License
 
-Auracle for Linux is proprietary software. This repository carries no
-`LICENSE` file and grants no rights of its own; it is a distribution point,
-not a license grant. Every release ships its own `THIRD-PARTY-NOTICES.md`,
-which discloses the open-source components this build depends on and their
-own license terms.
+Auracle for Linux is proprietary software, copyright Auracare Health LTD.
+This repository is a distribution point. Every release also ships its own
+`THIRD-PARTY-NOTICES.md`, which discloses the open-source components this
+build depends on and their own license terms.
 
 ## This README's source of truth
 
